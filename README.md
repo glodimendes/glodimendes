@@ -3,7 +3,7 @@
 
 - Computer Science Major
 - Working on getting better at Python
-- Programming: Python (intermediate) / Java (Intermediate)
+- Programming: Python (intermediate) / Java (Intermediate) / C++ (Intermediate) / C (Basic)
 - Languages: Portuguese, English, German and Spanish
 - I’m looking for help with Python and Java
 - Want to collaborate in any projects that can help me get better at programming
